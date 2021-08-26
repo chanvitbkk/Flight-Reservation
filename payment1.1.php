@@ -79,7 +79,7 @@ echo "route";
 			</rect>
 		</svg>
 		<form action="recep.php" method="POST">
-			<img id="Visa-Logo" src="Visa-Logo.png" srcset="Visa-Logo.png 1x">
+			<img id="Visa-Logo" src="image/Visa-Logo.png" srcset="Visa-Logo.png 1x">
 
 			<div id="Buttons__Radio_Button__Off_-_I" class="Buttons___Radio_Button___Off___Inactive___Aqua">
 				<input type="radio" class="Base">
@@ -93,7 +93,7 @@ echo "route";
 
 	<img id="ID1280px-Mastercard-logosvg" src="ID1280px-Mastercard-logosvg.png" srcset="ID1280px-Mastercard-logosvg.png 1x">
 
-	<img id="amex" src="amex.png" srcset="amex.png 1x">
+	<img id="amex" src="image/amex.png" srcset="amex.png 1x">
 
 	<div id="Buttons__Radio_Button__On_-_In" class="Buttons___Radio_Button___On___Inactive___Aqua">
 		<input type="radio" class="Base">
