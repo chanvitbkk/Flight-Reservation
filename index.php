@@ -36,13 +36,10 @@
                 echo "DELETE failed. Error: " .$mysqli->error;
             }
            // else echo "giodd";
-           
-            } 
-            
-                ?>
+            }?>
 
     
-                </body>
+</body>
 <div>
     <!--  top nav = tab บนสุดนะจ๊ะ -->
 
@@ -58,8 +55,6 @@
         <a href="login.php"><img class="right" src="image/user.png"></a>
         
     </div>
-
-
     <div class="wallpaper ">
         <br>
         <div style="padding-top:300px ">
