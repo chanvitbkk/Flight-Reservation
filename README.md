@@ -2,9 +2,9 @@
 
 ### Fun fact :tada:
 
-This is my first project and before this I haven't learn about web development
+This is my first project and, before this I haven't learn about web development.
 
-I want to apologise for this messy codes and file 
+I want to apologise for this messy codes and file .
 
 When I re-arrange a file. The webpage can not be open. :cry:
 
