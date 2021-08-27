@@ -20,4 +20,4 @@ When I re-arrange a file. The webpage can not be open. :cry:
 - for window user:<br>
 ``` $mysqli = new mysqli('localhost','','','flight') ```
 
-2. some php file has its own css file (pardon me :cry: )
+2. some php file has its own css please check (pardon me :cry: )
