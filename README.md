@@ -1,7 +1,5 @@
 ## Flight Reservation :airplane:
 
-### Fun fact :tada:
-
 This is my first web-based application project with a database. Before this, I haven't learned about web development.
 
 I want to apologise for my messy codes and files in this project.
