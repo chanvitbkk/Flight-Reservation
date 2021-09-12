@@ -4,9 +4,8 @@
 
 This is my first project and, before this I haven't learn about web development.
 
-I want to apologise for this messy codes and file .
+I want to apologise for my messy codes and files in theis project .
 
-When I re-arrange a file. The webpage can not be open. :cry:
 
 ### How to use?
 1. Open localhost (I'm using MAMP)
@@ -20,4 +19,4 @@ When I re-arrange a file. The webpage can not be open. :cry:
 - for window user:<br>
 ``` $mysqli = new mysqli('localhost','','','flight') ```
 
-2. some php file has its own css please check (pardon me :cry: )
+2. Some PHP file has its own CSS please check
