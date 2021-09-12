@@ -2,9 +2,9 @@
 
 ### Fun fact :tada:
 
-This is my first project and, before this I haven't learn about web development.
+This is my first web-based application project with a database. Before this, I haven't learned about web development.
 
-I want to apologise for my messy codes and files in theis project .
+I want to apologise for my messy codes and files in this project.
 
 
 ### How to use?
@@ -19,4 +19,4 @@ I want to apologise for my messy codes and files in theis project .
 - for window user:<br>
 ``` $mysqli = new mysqli('localhost','','','flight') ```
 
-2. Some PHP file has its own CSS please check
+2. Some PHP file has its CSS please check
